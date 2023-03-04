@@ -15,8 +15,7 @@ public class CrearCuenta {//clase que permitirá realizar procesos como por ejem
 		
 		segundaCuenta.saldo=200;
 		System.out.println(segundaCuenta.saldo);
-		segundaCuenta.saldo=200;
-		System.out.println(segundaCuenta.saldo);
+
 	}
 	
 }

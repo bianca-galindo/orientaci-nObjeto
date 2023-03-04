@@ -6,6 +6,7 @@ public class Cuenta { //Objeto, descrita como una clase.
 		int agencia; //Atributo
 		int numero; //Atributo
 		String titular; //Atributo
+		//Atributos
 	
 
 }
