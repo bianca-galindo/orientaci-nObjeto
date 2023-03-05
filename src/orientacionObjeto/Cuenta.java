@@ -7,6 +7,9 @@ public class Cuenta { //Objeto, descrita como una clase.
 		int numero; //Atributo
 		String titular; //Atributo
 		//Atributos
-	
-
-}
+		
+		
+		void depositar (double valor) {
+			saldo=saldo + valor;
+		}
+	}
